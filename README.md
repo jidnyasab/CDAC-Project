@@ -1,2 +1,4 @@
 # CDAC-Project
 White-labeling LMS Solution with Integrated Payment and E-Automation. 
+
+This application helps creators and educators scale their online brand and organization by launching online courses. It is a Software as Service Platform that offers white-labeled websites with all of the necessary features such as a Learning Management System and payment integration, as well as e-marketing automation. It also allows creators to easily manage their businesses using our attractively designed dashboard. For learners, we offer interactive learning modules with a user-friendly dashboard that provides real-time insights into progress and achievements. This allows them to refine their skills and grow. The complete project is designed as a combination of C# and Java APIs, which are developed using ASP.NET Core framework and Spring Boot, and UI using HTML, CSS, Bootstrap, JavaScript, React.js, and Next.js with MySQL as the database.
